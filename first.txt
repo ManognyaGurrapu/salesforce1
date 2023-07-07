@@ -1,0 +1,5 @@
+Open the cloned repository in your code editor of choice and make changes to the files.
+Save the changes and return to your terminal.
+Type “git add .” to stage your changes.
+Type “git commit -m “ followed by a brief description of your changes.
+Type “git push” to push your changes to the remote repository.
